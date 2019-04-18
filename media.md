@@ -1,6 +1,6 @@
 ## Headshots
 
-![Headshot](https://octodex.github.com/images/yaktocat.png)
+![Headshot](yvettesegan.github.io/yvetteSeganHeadshotMain.jpg)
 
 ## Resume
 
