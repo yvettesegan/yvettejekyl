@@ -1,6 +1,6 @@
 ## Headshots
 
-![Headshot](yvettesegan.github.io/yvetteSeganHeadshotMain.jpg)
+![Headshot] (yvetteHeadshotMain.jpg)
 
 ## Resume
 
